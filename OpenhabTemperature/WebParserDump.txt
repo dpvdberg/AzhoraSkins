@@ -1,0 +1,1 @@
+{"link":"http://192.168.1.6:8080/rest/items/Dennis_Room_Thermostat_Temp","state":"17.34","stateDescription":{"pattern":"%.1f","readOnly":true,"options":[]},"editable":false,"type":"Number","name":"Dennis_Room_Thermostat_Temp","label":"Thermostat temperature","tags":[],"groupNames":["Dennis_Room_Thermostat_Group"]}
